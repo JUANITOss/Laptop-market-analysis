@@ -1,20 +1,20 @@
 # About this repository
 
-I will be doing some exploratory analysis on several topics throughout this repository. 
+I will be conducting exploratory analysis on several topics throughout this repository.
 
 </br>
 
-## FIRST PROJECT: Analysing relation between features in laptops
+### First Project: Analyzing the Relationship Between Features in Laptops
 
 ### Description
 
-This project tries to analyse the pricing in laptops (euros) from a dataset created by Iron Wolf in Kaggle.
+This project aims to analyze laptop pricing (in euros) using a dataset created by Iron Wolf on Kaggle.
 
-This dataset contains a variety of laptop specifications and the price of each device in Euros.
+The dataset contains a variety of laptop specifications along with the price of each device in Euros.
 
-My objective was to evaluate the relations between features (heatmap graph).
+My objective was to evaluate the relationships between features (shown through a heatmap graph).
 
-Data from: August, 2024.
+**Data from:** August 2024.
 
 ### Graphics
 
@@ -22,6 +22,6 @@ Data from: August, 2024.
 
 ### Conclussions
 
-* The weight is directly related to the inches
-* The pricing has a lot to do with the RAM and some relation with the CPU Frequency
-* We would need more data in regards to pricing, as the dataset doesn't take into account other CPU/GPU features
+- The weight is directly related to the screen size (in inches).
+- Pricing is strongly related to RAM and somewhat related to CPU frequency.
+- More data on pricing is needed, as the dataset does not account for other CPU/GPU features.
