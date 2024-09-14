@@ -4,7 +4,7 @@ I will be conducting exploratory analysis on several topics throughout this repo
 
 </br>
 
-### First Project: Analyzing the Relationship Between Features in Laptops
+## First Project: Analyzing the Relationship Between Features in Laptops
 
 ### Description
 
